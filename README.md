@@ -2,6 +2,8 @@
 
 Este é um projeto de API RESTful desenvolvido com Node.js, Fastify, Knex e TypeScript. O objetivo deste projeto é fornecer uma base sólida para o desenvolvimento de APIs RESTful com boas práticas e ferramentas modernas.
 
+link da api no render: https://zero2-api-rest-nodejs-ige4.onrender.com
+
 **Requisitos**: Node.js (versão 14 ou superior) e npm (versão 6 ou superior).
 
 **Instalação**: Clone o repositório com `git clone https://github.com/seu-usuario/02-api-rest-nodejs.git` e acesse a pasta com `cd 02-api-rest-nodejs`. Em seguida, instale as dependências com `npm install`.
